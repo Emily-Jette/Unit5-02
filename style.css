@@ -1,16 +1,10 @@
 #main-page {
   background-color: darkmagenta;
-  color: lightseagreen
 }
 
-.heading {
+#heading {
   color: chocolate;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-#text {
-  font-family: fantasy;
-  color: blanchedalmond;
 }
 
 #button {
