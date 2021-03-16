@@ -1,3 +1,4 @@
+//This code will run two alerts after button is clicked.
 document.getElementById('button').addEventListener('click', message)
 
 function message(){
