@@ -1,0 +1,18 @@
+#main-page {
+  background-color: darkmagenta;
+}
+
+.heading{
+  color: chocolate;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#text{
+  font-family: fantasy;
+  color: blanchedalmond;
+}
+
+#button{
+  border: 3px solid grey;
+  color: deeppink;
+}
