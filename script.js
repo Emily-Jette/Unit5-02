@@ -6,11 +6,12 @@ function message () {
   alert('Going so soon? Oh well, have a great day!')
 }
 
-// This code changes the text on a button. It was a test.
-document.getElementById('button2').addEventListener('click', text)
+// This code changes the text of button2 and changes backgroundColor
+document.getElementById('button2').addEventListener('click', buttonText)
 
-function text () {
+function buttonText () {
   document.getElementById('button2').innerHTML = 'Oh Hey!'
+  document.getElementById('main-page').style.backgroundColor = 'steelblue'
 }
 
 // this code will change the text color of the paragraph
