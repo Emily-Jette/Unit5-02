@@ -1,18 +1,34 @@
 #main-page {
   background-color: darkmagenta;
+  color: lightseagreen
 }
 
-.heading{
+.heading {
   color: chocolate;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#text{
+#text {
   font-family: fantasy;
   color: blanchedalmond;
 }
 
-#button{
+#button {
   border: 3px solid grey;
   color: deeppink;
+}
+
+#button2 {
+  border: 3px solid darkkhaki;
+  color: lightblue;
+}
+
+#text {
+  color: pink;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#button3 {
+  border: 3px solid gold;
+  color: coral;
 }
